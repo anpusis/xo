@@ -1,0 +1,433 @@
+Delivered-To: anpusis@gmail.com
+Received: by 10.157.15.228 with SMTP id m33csp163813otd;
+        Fri, 25 May 2018 17:38:52 -0800 (PST)
+X-Google-Smtp-Source: AG47ELtxIX3amuoI9YGmZ6KVH2lTpGFprPr7eo6BsYvrnyL2VOn41zNHrbyGg62L7MN8m19tr4gT
+X-Received: by 10.36.217.138 with SMTP id p132mr1259744itg.41.1520041132702;
+        Fri, 02 Mar 2018 17:38:52 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1520041132; cv=none;
+        d=google.com; s=arc-20160816;
+        b=AM7Hd3XmUXyu5hoB1Bt/d/8nmTly68OUsDsrOZFTbhNjOyUvpkesUwdaZC1sc4b1jh
+         idmgSd90YiBC5MXj74VZGxnsHEGr4W9AzDcT/tfnzApnS2rjtn1LBC7CBlOAPQr+5ck+
+         umXeKtgGRfglBAiG3uBo/zTcUgX4wriXn74iEl2E7J13iUZE52soyn98dD7KoLCSmpCj
+         DEF+b6vNHutxPctzajlvvGCVrILIj/qhskeBQDq87IMWtGGji7htEHUmypCqI5CUmzas
+         UNl1egYDPojReOM1QJzkhPOfpjDXdtpLY2i/fYvpKlFJGybzJMKHzh+XphGLGiRzE9nC
+         jt2g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=feedback-id:message-id:list-id:reply-to:mime-version:date:subject
+         :to:from:arc-authentication-results;
+        bh=XcC6+De9beTG5/SQWjBW5VbrUSy+GaGeZT7RWrFM7Do=;
+        b=F61FwboRlw+qeFU///HmpXrhxU+TRSriwfN6zK/yXd1O/FROqrJkb3wOJvlMObgdfv
+         UnqEQWgMNsZ0xXLETbzEMJEgFpB2BPqNCSIR4cPmQBRbS3+z+9QgXBR+v+Fg4wh2bFBQ
+         BQY7h0wvStO6ISQogWTGDfQhCl3U88req5lbiZwOtwGfDQeNLNHs03vCSjohce7hJk89
+         RcW2EdLxWHNxJ1S8OyyAdeQxF5WYPDp1uo2C1WSoOINXa17BnU4nDZ/kTLWKkbdVDfYa
+         /hHowtpYktXUQRlE1J/6dzlEENqsRSZb1+ZaRlMZ1RoQi1aYOy+QBdGW6sTiHyZXL2gE
+         mO2A==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: domain of bounce-19_html-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com designates 136.147.184.221 as permitted sender) smtp.mailfrom=bounce-19_HTML-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com
+Return-Path: <bounce-19_HTML-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com>
+Received: from mta4.txn-email.playstation.com (mta4.txn-email.playstation.com. [136.147.184.221])
+        by mx.google.com with ESMTPS id y126si2076343itd.120.2018.03.02.17.38.52
+        for <anpusis@gmail.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 25 May 2018 17:38:52 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-19_html-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com designates 136.147.184.221 as permitted sender) client-ip=136.147.184.221;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-19_html-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com designates 136.147.184.221 as permitted sender) smtp.mailfrom=bounce-19_HTML-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com
+Received: by mta4.txn-email.playstation.com id hj7uao163hs0 for <anpusis@gmail.com>; Fri, 2 Mar 2018 19:38:49 -0600 (envelope-from <bounce-19_HTML-232973655-148596-6416383-3939722@bounce.txn-email.playstation.com>)
+From: PlayStation <Sony@email.sonyentertainmentnetwork.com>
+To: <anpusis@gmail.com>
+Subject: Funds have been added to your wallet
+Date: Fri, 25 May 2018 19:38:49 -0600
+MIME-Version: 1.0
+Reply-To: NP Transactional Emails <reply-febe15747d610d7b-19_HTML-232973655-6416383-3939722@txn-email.playstation.com>
+List-ID: <6416383_148596.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 6416383_148596
+Message-ID: <144f5514-b9b2-4301-965e-0aa3c3a51f0b@xtinp2mta1259.xt.local>
+Feedback-ID: 6416383:148596:136.147.184.221:sfmktgcld
+Content-Type: multipart/alternative; boundary="vx3jTsBkjXd8=_?:"
+
+--vx3jTsBkjXd8=_?:
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+
+
+Wallet Transaction Notification: Funds Added.
+
+
+
+ 
+
+
+Dear King,
+
+
+The requested funds have been added to your PlayStation(R)Network wallet. The transaction details are provided below for your records. 
+
+ 
+
+
+Online ID:XoKINGTUT_1KoX
+Order Number:80340192269
+Date Purchased:05/25/2018 @ 12:00 AM
+Charge Method: Prepaid Card 
+Funds Added To Wallet:$900.00
+
+Current Wallet Amount*: $900.00
+*This wallet amount is current as of the date and time of this transaction. 
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+This e-mail message has been delivered from a send-only address. Please do not reply to this message. For more information about your account, please visit the links below.
+
+
+Support:
+
+http://click.txn-email.playstation.com/?qs=38efb6347d1d7863cdbae1d5690da327cf685fc311fe4155b8dcf9556dd41c4ab47620a860801e1eec41ad2a8ef3316b76ae851f8f9e3db0 
+http://click.txn-email.playstation.com/?qs=38efb6347d1d7863cdbae1d5690da327cf685fc311fe4155b8dcf9556dd41c4ab47620a860801e1eec41ad2a8ef3316b76ae851f8f9e3db0 
+
+
+Terms of Use and Privacy Policy:
+
+http://click.txn-email.playstation.com/?qs=81bfb1ae15ac5b93d8375264d7b9ff4dad72665140a2a224703aada228a794c0998de4e22116fd08caf778531f28f8018d8c7c7179e8d3d5 
+http://click.txn-email.playstation.com/?qs=81bfb1ae15ac5b93d8375264d7b9ff4dad72665140a2a224703aada228a794c0998de4e22116fd08caf778531f28f8018d8c7c7179e8d3d5 
+
+
+(c) Sony Interactive Entertainment Network America LLC. "SEN logo" and "Sony Entertainment Network" are trademarks of Sony Corporation. 
+
+
+
+
+
+
+
+
+
+--vx3jTsBkjXd8=_?:
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title></title>
+<style type="text/css">
+/* CLIENT-SPECIFIC STYLES */
+body {
+	width: 100% !important;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	margin: 0;
+	padding: 0;
+} /* Prevent WebKit and Windows mobile changing default text sizes + Margin Reset */
+.ReadMsgBody {
+	width: 100%;
+}
+.ExternalClass {
+	width: 100%;
+} /* Force Hotmail to display emails at full width */
+.ExternalClass * {
+	line-height: 100%
+} /* Force Hotmail/Outlook to display normal line spacing */
+#outlook a {
+	padding: 0;
+} /* Force Outlook to provide a "view in browser" message */
+table, td {
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+} /* Remove spacing between tables in Outlook 2007 and up */
+img {
+	outline: none;
+	text-decoration: none;
+	-ms-interpolation-mode: bicubic;
+} /* Allow smoother rendering of resized image in Internet Explorer */
+/* RESET STYLES */
+img {
+	border: 0;
+	line-height: 100%;
+	outline: none;
+	text-decoration: none;
+}
+table {
+	border-collapse: collapse !important;
+}
+body {
+	height: 100% !important;
+	margin: 0;
+	padding: 0;
+	width: 100% !important;
+}
+a:link {
+	color : #006db4;
+}
+a:visited {
+	color : #006db4;
+}
+a.whitelink:link {
+	color: #ffffff
+}
+a.whitelink:visited {
+	color: #ffffff
+}
+a.graylink:link {
+	color: #333333;
+}
+a.graylink:visited {
+	color: #333333;
+}
+
+@media only screen and (max-width:480px) {
+*[class*=resizetofull] {
+	width: 100% !important;
+	height: auto !important;
+	margin: 0 auto !important;
+}/*Place this on main table hosting email - Makes it fluid*/
+*[class*=colstack] {
+	display: block;
+	width: 100%;
+	padding: 0 !important
+}
+*[class*=mobile-hide] {
+	display: none !important;
+} /*Hide images from mobile - but keeps it in desktop */
+*[class*=mobile-show] {
+	display: block !important;
+	overflow : visible !important;
+	height: auto !important;
+	max-height: inherit !important;
+} /*Hides elements in desktop but displays them in Mobile */
+*[class*=mobile-show-table] {
+	display: table !important;
+	overflow : visible !important;
+	height: auto !important;
+	max-height: inherit !important;
+} /* Assign to a table that is hidden in mobile, but shows in mobile */
+*[class*=mobile-show-tr] {
+	display: table-row !important;
+	overflow : visible !important;
+	height: auto !important;
+	max-height: inherit !important;
+} /* Assign to a tr that is hidden in mobile, but shows in mobile */
+*[class*=mobile-show-td] {
+	display: table-cell !important;
+	overflow : visible !important;
+	height: auto !important;
+	max-height: inherit !important;
+} /* Assign to a td that is hidden in mobile, but shows in mobile */
+*[class*=removepadding] {
+	padding: 0 !important;
+} /* removes padding from Desktop view */
+*[class*=mobilepadding] {
+	padding: 10px !important;
+} /* Mobile padding */
+*[class*=padTop10] {
+	padding-top: 10px !important;
+} /* Mobile padding top*/
+*[class*=padLeft10] {
+	padding-left: 10px !important;
+} /* Mobile padding left*/
+*[class*=padRight10] {
+	padding-Right: 10px !important;
+} /* Mobile padding right*/
+*[class*=padBottom10] {
+	padding-Bottom: 10px !important;
+} /* Mobile padding left*/
+*[class*=fourteen] {
+	font-size: 14px !important;
+} /* Mobile font size */
+*[class~=mobile-block] {
+	width: 100% !important;
+} /* unhide image element from desktop*/
+.leftcol {
+	display: table-footer-group;
+}
+.rightcol {
+	display: table-header-group;
+}
+*[class~=align-left] {
+	text-align: left !important;
+}
+*[class~=align-center] {
+	text-align: center !important;
+	margin: 0 auto !important
+}
+*[class~=align-right] {
+	text-align: right !important;
+}
+*[class~=minWFix] {
+	min-width: inherit !important;
+}
+}
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" style="background-color:#ffffff; margin:0; padding:0;-webkit-font-smoothing: antialiased;width:100% !important;-webkit-text-size-adjust:none; font-family:Arial, Helvetica, sans-serif;" topmargin="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+  <tr>
+    <td bgcolor="#ffffff" ><div align="center"> 
+        <!-- Start HERE -->
+        <table width="600" border="0" cellspacing="0" cellpadding="0" class="resizetofull minWFix" style="min-width:600px;">
+          <tbody>
+            <!-- Logo -->
+            <tr>
+              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td valign="top" align="center" style="padding:40px 20px 0px 20px;"><img src="http://image.playstationemail.com/lib/fe9012747462077576/m/1/PSN_Logo.jpg" width="438" height="106" alt="PlayStation" style="display: block;" border="0" class="resizetofull"/></td>
+                    </tr>
+                  </tbody>
+                </table></td>
+            </tr>
+            <!-- End Logo --> 
+            <!-- Content -->
+            <tr>
+              <td valign="top" align="left">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <!-- Headline -->
+    
+    <tr>
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody>
+            <tr>
+              <td valign="top" align="left" style="font-family:Helvetica, sans-serif; font-size:30px; color:#505050; padding:20px 20px 0px 20px;">Wallet Transaction Notification: Funds Added.
+                </td>
+            </tr>
+          </tbody>
+        </table></td>
+    </tr>
+     
+    <!-- End Headline --> 
+    <!-- Body 1 -->
+  
+  <tr>
+    <td valign="top" align="left" style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050; padding:20px 20px 20px 20px;">Dear King,<br>
+      <br>
+      The requested funds have been added to your PlayStation&reg;Network wallet. The transaction details are provided below for your records. </td>
+  </tr>
+   
+  
+  
+  <tr>
+    <td valign="top" align="left" bgcolor="#cccccc" style="padding:20px 20px 20px 20px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td width="50%" style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">Online ID:</td>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">XoKINGTUT_1KoX</td>
+          </tr>
+          <tr>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">Order Number:</td>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">80340192263</td>
+          </tr>
+          <tr>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">Date Purchased:</td
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">05/25/2018 @ 12:00
+			</td>
+          </tr>
+          <tr>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">Charge Method:</td>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;"> Prepaid Card </td>
+          </tr>
+          <tr>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">Funds Added To Wallet:</td>
+            <td style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050;">$900.00</td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  <tr>
+    <td valign="top" align="left" style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050; padding:20px 20px 20px 20px;"><span style="color:#008B8B;">Current Wallet Amount*:</span> $926.26<br>
+      <span style="font-size:11px;">*This wallet amount is current as of the date and time of this transaction. </span></td>
+  </tr>
+   
+  
+      
+   
+
+      
+ 
+      
+
+      
+ 
+      
+
+ 
+  <tr>
+    <td valign="top" align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td height="1" bgcolor="#ffffff" style="border:none; border-bottom: 1px solid #d2d2d2; font-size:1px; line-height:1px;">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table></td>
+  </tr>
+  </tbody>
+</table>
+              </td>
+            </tr>
+            <!-- End Content --> 
+            <!-- Footer -->
+            <tr>
+              <td valign="top" align="left">
+              
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td valign="top" align="left" style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#505050; padding:20px 20px 40px 20px;">
+This e-mail message has been delivered from a send-only address. Please do not reply to this message. For more information about your account, please visit the links below.<br />
+                        <br />
+                        Support:<br />
+                        <a href="http://click.txn-email.playstation.com/?qs=38efb6347d1d7863cdbae1d5690da327cf685fc311fe4155b8dcf9556dd41c4ab47620a860801e1eec41ad2a8ef3316b76ae851f8f9e3db0" style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#006db4;">https://www.playstation.com/corporate/contactus/</a><br />
+                        <br />
+                        Terms of Use and Privacy Policy:<br />
+                        <a href="http://click.txn-email.playstation.com/?qs=81bfb1ae15ac5b93d8375264d7b9ff4dad72665140a2a224703aada228a794c0998de4e22116fd08caf778531f28f8018d8c7c7179e8d3d5" style="font-family:Helvetica, sans-serif; font-size:13px; line-height:150%; color:#006db4;">https://www.playstationnetwork.com/legal</a><br />
+                        <br />
+                        &copy; Sony Interactive Entertainment Network America LLC. "SEN logo" and "Sony Entertainment Network" are trademarks of Sony Corporation. <br />
+                        <br /></td>
+                    </tr>
+                  </tbody>
+                </table>
+
+              </td>
+            </tr>
+            <!-- End Footer -->
+          </tbody>
+        </table>
+        <!-- END Start HERE --> 
+      </div></td>
+  </tr>
+</table>
+<img src="http://click.txn-email.playstation.com/open.aspx?ffcb10-febe15747d610d7b-fe33167476660475751d70-fe9012747462077576-ff951579-fe251673776d037e731175-fe8c1779766d037f77" width="1" height="1">
+</body>
+</html>
+
+
+--vx3jTsBkjXd8=_?:--
